@@ -1,0 +1,15 @@
+/Users/juliarufino/Documents/projetosGitHub/screenSoundPOO/screenSoudPoo/screenSoudPoo/bin/Debug/net7.0/screenSoudPoo
+/Users/juliarufino/Documents/projetosGitHub/screenSoundPOO/screenSoudPoo/screenSoudPoo/bin/Debug/net7.0/screenSoudPoo.deps.json
+/Users/juliarufino/Documents/projetosGitHub/screenSoundPOO/screenSoudPoo/screenSoudPoo/bin/Debug/net7.0/screenSoudPoo.runtimeconfig.json
+/Users/juliarufino/Documents/projetosGitHub/screenSoundPOO/screenSoudPoo/screenSoudPoo/bin/Debug/net7.0/screenSoudPoo.dll
+/Users/juliarufino/Documents/projetosGitHub/screenSoundPOO/screenSoudPoo/screenSoudPoo/bin/Debug/net7.0/screenSoudPoo.pdb
+/Users/juliarufino/Documents/projetosGitHub/screenSoundPOO/screenSoudPoo/screenSoudPoo/obj/Debug/net7.0/screenSoudPoo.csproj.AssemblyReference.cache
+/Users/juliarufino/Documents/projetosGitHub/screenSoundPOO/screenSoudPoo/screenSoudPoo/obj/Debug/net7.0/screenSoudPoo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliarufino/Documents/projetosGitHub/screenSoundPOO/screenSoudPoo/screenSoudPoo/obj/Debug/net7.0/screenSoudPoo.AssemblyInfoInputs.cache
+/Users/juliarufino/Documents/projetosGitHub/screenSoundPOO/screenSoudPoo/screenSoudPoo/obj/Debug/net7.0/screenSoudPoo.AssemblyInfo.cs
+/Users/juliarufino/Documents/projetosGitHub/screenSoundPOO/screenSoudPoo/screenSoudPoo/obj/Debug/net7.0/screenSoudPoo.csproj.CoreCompileInputs.cache
+/Users/juliarufino/Documents/projetosGitHub/screenSoundPOO/screenSoudPoo/screenSoudPoo/obj/Debug/net7.0/screenSoudPoo.dll
+/Users/juliarufino/Documents/projetosGitHub/screenSoundPOO/screenSoudPoo/screenSoudPoo/obj/Debug/net7.0/refint/screenSoudPoo.dll
+/Users/juliarufino/Documents/projetosGitHub/screenSoundPOO/screenSoudPoo/screenSoudPoo/obj/Debug/net7.0/screenSoudPoo.pdb
+/Users/juliarufino/Documents/projetosGitHub/screenSoundPOO/screenSoudPoo/screenSoudPoo/obj/Debug/net7.0/screenSoudPoo.genruntimeconfig.cache
+/Users/juliarufino/Documents/projetosGitHub/screenSoundPOO/screenSoudPoo/screenSoudPoo/obj/Debug/net7.0/ref/screenSoudPoo.dll

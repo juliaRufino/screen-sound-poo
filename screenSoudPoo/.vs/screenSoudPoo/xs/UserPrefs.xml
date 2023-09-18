@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F9DA1E79-737E-4E0E-B8F8-6FB2A3602391}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="screenSoudPoo/Genero.cs">
+    <Files>
+      <File FileName="screenSoudPoo/EmptyClass.cs" Line="35" Column="1" />
+      <File FileName="screenSoudPoo/Album.cs" Line="23" Column="2" />
+      <File FileName="screenSoudPoo/Genero.cs" Line="12" Column="36" />
+      <File FileName="screenSoudPoo/Programa.cs" Line="25" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="screenSoudPoo" expanded="True">
+            <Node name="screenSoudPoo">
+              <Node name="Genero.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.screenSoudPoo PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
