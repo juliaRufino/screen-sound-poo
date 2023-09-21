@@ -15,6 +15,7 @@
     //Lambda - Apenas o Get (leitura)
     public string DescricaoResumida => $"A música {Nome} pertence a banda {Artista}";
 
+    //Exibindo informações da musica
     public void ExibirFichaTecnica()
     {
         Console.WriteLine($"\nNome: {Nome}");
@@ -30,6 +31,7 @@
         }
     }
 
+    //Exibindo informações da musica
     public void ExibirMusica()
     {
         Console.WriteLine($"\nNome da música: {Nome}");

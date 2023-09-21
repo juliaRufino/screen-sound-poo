@@ -71,33 +71,13 @@ Convidado convidado03 = new Convidado()
 };
 
 // Instânciando os episodios
-Episodio episodio01 = new Episodio()
-{
-    Titulo = "Piloto",
-    Ordem = 1,
-    Duracao = 25,
-};
+Episodio episodio01 = new Episodio(25, 1, "Piloto");
 
-Episodio episodio02 = new Episodio()
-{
-    Titulo = "Serio mesmo?",
-    Ordem = 2,
-    Duracao = 20,
-};
+Episodio episodio02 = new Episodio(20, 2, "Serio mesmo?");
 
-Episodio episodio03 = new Episodio()
-{
-    Titulo = "Vish maria",
-    Ordem = 3,
-    Duracao = 30,
-};
+Episodio episodio03 = new Episodio(30, 3, "Vish maria");
 
-Episodio episodio04 = new Episodio()
-{
-    Titulo = "Seja bem-vindo!",
-    Ordem = 4,
-    Duracao = 30,
-};
+Episodio episodio04 = new Episodio(30, 4, "Seja bem-vindo!");
 
 //Instânciando os podcasts
 Podcast podcast01 = new Podcast("Host1", "Programação: O que é isso?");
